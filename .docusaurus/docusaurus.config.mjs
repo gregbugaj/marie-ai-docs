@@ -80,10 +80,6 @@ export default {
             {
               "label": "Stack Overflow",
               "href": "https://stackoverflow.com/questions/tagged/marie-ai"
-            },
-            {
-              "label": "Discord",
-              "href": "https://discordapp.com/invite/marie-ai"
             }
           ]
         },
@@ -92,16 +88,15 @@ export default {
           "items": [
             {
               "label": "Blog",
-              "to": "/blog"
+              "to": "http://www.gregbugaj.com"
             },
             {
               "label": "GitHub",
-              "href": "https://github.com/facebook/docusaurus"
+              "href": "http://github.com/gregbugaj/marie-ai"
             }
           ]
         }
-      ],
-      "copyright": "Copyright © 2022 Marie-AI "
+      ]
     },
     "prism": {
       "theme": {

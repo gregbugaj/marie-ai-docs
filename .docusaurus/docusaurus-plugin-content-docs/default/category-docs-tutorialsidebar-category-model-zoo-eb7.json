@@ -1,0 +1,16 @@
+{
+  "title": "Model Zoo",
+  "description": "Model Zoo is a collection of pre-trained, state-of-the-art models",
+  "slug": "/category/model-zoo",
+  "permalink": "/docs/category/model-zoo",
+  "navigation": {
+    "previous": {
+      "title": "Flow",
+      "permalink": "/docs/guides/flow"
+    },
+    "next": {
+      "title": "Models",
+      "permalink": "/docs/models/"
+    }
+  }
+}

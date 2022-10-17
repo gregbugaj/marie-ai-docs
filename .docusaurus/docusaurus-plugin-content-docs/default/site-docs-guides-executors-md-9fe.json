@@ -1,0 +1,27 @@
+{
+  "unversionedId": "guides/executors",
+  "id": "guides/executors",
+  "title": "Tutorial 2",
+  "description": "",
+  "source": "@site/docs/guides/executors.md",
+  "sourceDirName": "guides",
+  "slug": "/guides/executors",
+  "permalink": "/docs/guides/executors",
+  "draft": false,
+  "editUrl": "https://github.com/gregbugaj/marie-ai/tree/develop/docs/docs/guides/executors.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Basic Concepts",
+    "permalink": "/docs/guides/architecture-overview"
+  },
+  "next": {
+    "title": "Release notes",
+    "permalink": "/docs/changelog"
+  }
+}

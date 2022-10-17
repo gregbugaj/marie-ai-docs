@@ -90,10 +90,10 @@ const config = {
                 label: 'Stack Overflow',
                 href: 'https://stackoverflow.com/questions/tagged/marie-ai',
               },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/marie-ai',
-              },
+              // {
+              //   label: 'Discord',
+              //   href: 'https://discordapp.com/invite/marie-ai',
+              // },
             ],
           },
           {
@@ -101,16 +101,16 @@ const config = {
             items: [
               {
                 label: 'Blog',
-                to: '/blog',
+                to: 'http://www.gregbugaj.com',
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'http://github.com/gregbugaj/marie-ai',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Marie-AI `,
+        // copyright: `Copyright © ${new Date().getFullYear()} Marie-AI `,
       },
       prism: {
         theme: lightCodeTheme,

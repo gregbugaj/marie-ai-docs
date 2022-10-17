@@ -1,0 +1,27 @@
+{
+  "unversionedId": "getting-started/develop/troubleshooting",
+  "id": "getting-started/develop/troubleshooting",
+  "title": "Troubleshooting",
+  "description": "",
+  "source": "@site/docs/getting-started/develop/troubleshooting.md",
+  "sourceDirName": "getting-started/develop",
+  "slug": "/getting-started/develop/troubleshooting",
+  "permalink": "/docs/getting-started/develop/troubleshooting",
+  "draft": false,
+  "editUrl": "https://github.com/gregbugaj/marie-ai/tree/develop/docs/docs/getting-started/develop/troubleshooting.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Development",
+    "permalink": "/docs/category/development"
+  },
+  "next": {
+    "title": "Fundamentals",
+    "permalink": "/docs/category/fundamentals"
+  }
+}

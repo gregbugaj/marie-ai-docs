@@ -1,0 +1,16 @@
+{
+  "title": "Fundamentals",
+  "description": "5 minutes to learn the most important concepts.",
+  "slug": "/category/fundamentals",
+  "permalink": "/docs/category/fundamentals",
+  "navigation": {
+    "previous": {
+      "title": "Docker",
+      "permalink": "/docs/getting-started/deployment/docker"
+    },
+    "next": {
+      "title": "Basic Concepts",
+      "permalink": "/docs/guides/architecture-overview"
+    }
+  }
+}

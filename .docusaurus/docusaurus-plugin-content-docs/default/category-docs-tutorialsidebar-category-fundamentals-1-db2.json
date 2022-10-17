@@ -1,0 +1,16 @@
+{
+  "title": "Fundamentals",
+  "description": "5 minutes to learn the most important concepts.",
+  "slug": "/category/fundamentals-1",
+  "permalink": "/docs/category/fundamentals-1",
+  "navigation": {
+    "previous": {
+      "title": "Flow",
+      "permalink": "/docs/guides/flow"
+    },
+    "next": {
+      "title": "Basic Concepts",
+      "permalink": "/docs/models/architecture-overview"
+    }
+  }
+}

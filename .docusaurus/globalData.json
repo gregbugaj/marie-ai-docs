@@ -11,8 +11,83 @@
           "mainDocId": "intro",
           "docs": [
             {
+              "id": "changelog",
+              "path": "/docs/changelog",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "credits",
+              "path": "/docs/credits",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "getting-started/configuration/config",
+              "path": "/docs/getting-started/configuration/config",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "getting-started/deployment/docker",
+              "path": "/docs/getting-started/deployment/docker",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "getting-started/installation",
+              "path": "/docs/getting-started/installation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "getting-started/troubleshooting",
+              "path": "/docs/getting-started/troubleshooting",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "guides/architecture-overview",
+              "path": "/docs/guides/architecture-overview",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "guides/executor",
+              "path": "/docs/guides/executor",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "guides/flow",
+              "path": "/docs/guides/flow",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "intro",
               "path": "/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "models/models",
+              "path": "/docs/models/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/getting-started",
+              "path": "/docs/category/getting-started",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/configuration",
+              "path": "/docs/category/configuration",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/deployment",
+              "path": "/docs/category/deployment",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/fundamentals",
+              "path": "/docs/category/fundamentals",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/model-zoo",
+              "path": "/docs/category/model-zoo",
               "sidebar": "tutorialSidebar"
             }
           ],

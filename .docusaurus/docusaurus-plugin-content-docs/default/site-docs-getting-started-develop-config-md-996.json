@@ -1,0 +1,27 @@
+{
+  "unversionedId": "getting-started/develop/config",
+  "id": "getting-started/develop/config",
+  "title": "Basic Concepts",
+  "description": "",
+  "source": "@site/docs/getting-started/develop/config.md",
+  "sourceDirName": "getting-started/develop",
+  "slug": "/getting-started/develop/config",
+  "permalink": "/docs/getting-started/develop/config",
+  "draft": false,
+  "editUrl": "https://github.com/gregbugaj/marie-ai/tree/develop/docs/docs/getting-started/develop/config.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Development",
+    "permalink": "/docs/category/development"
+  },
+  "next": {
+    "title": "Tutorial - Basics",
+    "permalink": "/docs/category/tutorial---basics"
+  }
+}

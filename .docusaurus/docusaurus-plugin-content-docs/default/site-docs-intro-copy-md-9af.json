@@ -1,0 +1,27 @@
+{
+  "unversionedId": "intro copy",
+  "id": "intro copy",
+  "title": "Introducing Marie-AI (🦊)",
+  "description": "",
+  "source": "@site/docs/intro copy.md",
+  "sourceDirName": ".",
+  "slug": "/intro copy",
+  "permalink": "/docs/intro copy",
+  "draft": false,
+  "editUrl": "https://github.com/gregbugaj/marie-ai/tree/develop/docs/docs/intro copy.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "End-2-End Tutorial",
+    "permalink": "/docs/end-2-end-tutorial"
+  },
+  "next": {
+    "title": "Introducing Marie-AI (🦊)",
+    "permalink": "/docs/intro"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "guides/executor copy",
+  "id": "guides/executor copy",
+  "title": "Executor",
+  "description": "",
+  "source": "@site/docs/guides/executor copy.md",
+  "sourceDirName": "guides",
+  "slug": "/guides/executor copy",
+  "permalink": "/docs/guides/executor copy",
+  "draft": false,
+  "editUrl": "https://github.com/gregbugaj/marie-ai/tree/develop/docs/docs/guides/executor copy.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Basic Concepts",
+    "permalink": "/docs/guides/architecture-overview"
+  },
+  "next": {
+    "title": "Executor",
+    "permalink": "/docs/guides/executor"
+  }
+}

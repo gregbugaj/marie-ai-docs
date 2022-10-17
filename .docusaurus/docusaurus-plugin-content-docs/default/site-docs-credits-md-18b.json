@@ -1,0 +1,23 @@
+{
+  "unversionedId": "credits",
+  "id": "credits",
+  "title": "Release notes",
+  "description": "Release notes for new versions of Marie-AI, in reverse chronological order.",
+  "source": "@site/docs/credits.md",
+  "sourceDirName": ".",
+  "slug": "/credits",
+  "permalink": "/docs/credits",
+  "draft": false,
+  "editUrl": "https://github.com/gregbugaj/marie-ai/tree/develop/docs/docs/credits.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Release notes",
+    "permalink": "/docs/changelog"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Getting Started",
+  "description": "5 minutes to learn the most important concepts.",
+  "slug": "/category/getting-started",
+  "permalink": "/docs/category/getting-started",
+  "navigation": {
+    "previous": {
+      "title": "Introducing Marie-AI (🦊)",
+      "permalink": "/docs/intro"
+    },
+    "next": {
+      "title": "Installation",
+      "permalink": "/docs/getting-started/installation"
+    }
+  }
+}

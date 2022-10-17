@@ -1,0 +1,27 @@
+{
+  "unversionedId": "getting-started/deployment/localhost copy",
+  "id": "getting-started/deployment/localhost copy",
+  "title": "Localhost development environment setup",
+  "description": "",
+  "source": "@site/docs/getting-started/deployment/localhost copy.md",
+  "sourceDirName": "getting-started/deployment",
+  "slug": "/getting-started/deployment/localhost copy",
+  "permalink": "/docs/getting-started/deployment/localhost copy",
+  "draft": false,
+  "editUrl": "https://github.com/gregbugaj/marie-ai/tree/develop/docs/docs/getting-started/deployment/localhost copy.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Deployment",
+    "permalink": "/docs/category/deployment"
+  },
+  "next": {
+    "title": "Localhost development environment setup",
+    "permalink": "/docs/getting-started/deployment/localhost"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "accn",
+  "id": "accn",
+  "title": "Release notes",
+  "description": "Release notes for new versions of Marie-AI, in reverse chronological order.",
+  "source": "@site/docs/accn.md",
+  "sourceDirName": ".",
+  "slug": "/accn",
+  "permalink": "/docs/accn",
+  "draft": false,
+  "editUrl": "https://github.com/gregbugaj/marie-ai/tree/develop/docs/docs/accn.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Flow",
+    "permalink": "/docs/guides/flow"
+  },
+  "next": {
+    "title": "Release notes",
+    "permalink": "/docs/changelog"
+  }
+}

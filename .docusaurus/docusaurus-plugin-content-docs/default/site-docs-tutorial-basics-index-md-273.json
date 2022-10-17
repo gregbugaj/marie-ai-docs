@@ -1,0 +1,27 @@
+{
+  "unversionedId": "tutorial-basics/index",
+  "id": "tutorial-basics/index",
+  "title": "Tutorial 1",
+  "description": "",
+  "source": "@site/docs/tutorial-basics/index.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/",
+  "permalink": "/docs/tutorial-basics/",
+  "draft": false,
+  "editUrl": "https://github.com/gregbugaj/marie-ai/tree/develop/docs/docs/tutorial-basics/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Tutorial - Basics",
+    "permalink": "/docs/category/tutorial---basics"
+  },
+  "next": {
+    "title": "Release notes",
+    "permalink": "/docs/changelog"
+  }
+}

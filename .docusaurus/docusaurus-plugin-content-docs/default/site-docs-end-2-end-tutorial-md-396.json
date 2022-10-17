@@ -1,0 +1,27 @@
+{
+  "unversionedId": "end-2-end-tutorial",
+  "id": "end-2-end-tutorial",
+  "title": "End-2-End Tutorial",
+  "description": "",
+  "source": "@site/docs/end-2-end-tutorial.md",
+  "sourceDirName": ".",
+  "slug": "/end-2-end-tutorial",
+  "permalink": "/docs/end-2-end-tutorial",
+  "draft": false,
+  "editUrl": "https://github.com/gregbugaj/marie-ai/tree/develop/docs/docs/end-2-end-tutorial.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introducing Marie-AI (🦊)",
+    "permalink": "/docs/intro"
+  },
+  "next": {
+    "title": "Getting Started",
+    "permalink": "/docs/category/getting-started"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "tutorial-basics copy/tutorial-002",
+  "id": "tutorial-basics copy/tutorial-002",
+  "title": "Tutorial 2",
+  "description": "",
+  "source": "@site/docs/tutorial-basics copy/tutorial-002.md",
+  "sourceDirName": "tutorial-basics copy",
+  "slug": "/tutorial-basics copy/tutorial-002",
+  "permalink": "/docs/tutorial-basics copy/tutorial-002",
+  "draft": false,
+  "editUrl": "https://github.com/gregbugaj/marie-ai/tree/develop/docs/docs/tutorial-basics copy/tutorial-002.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Tutorial 1",
+    "permalink": "/docs/tutorial-basics copy/tutorial-001"
+  },
+  "next": {
+    "title": "Release notes",
+    "permalink": "/docs/changelog"
+  }
+}

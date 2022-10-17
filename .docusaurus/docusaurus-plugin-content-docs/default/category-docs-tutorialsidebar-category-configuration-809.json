@@ -1,0 +1,16 @@
+{
+  "title": "Configuration",
+  "description": "5 minutes to learn the most important concepts.",
+  "slug": "/category/configuration",
+  "permalink": "/docs/category/configuration",
+  "navigation": {
+    "previous": {
+      "title": "Troubleshooting",
+      "permalink": "/docs/getting-started/troubleshooting"
+    },
+    "next": {
+      "title": "Basic Concepts",
+      "permalink": "/docs/getting-started/configuration/config"
+    }
+  }
+}

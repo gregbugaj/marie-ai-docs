@@ -1,0 +1,27 @@
+{
+  "unversionedId": "getting-started/configuration copy/config",
+  "id": "getting-started/configuration copy/config",
+  "title": "Basic Concepts",
+  "description": "",
+  "source": "@site/docs/getting-started/configuration copy/config.md",
+  "sourceDirName": "getting-started/configuration copy",
+  "slug": "/getting-started/configuration copy/config",
+  "permalink": "/docs/getting-started/configuration copy/config",
+  "draft": false,
+  "editUrl": "https://github.com/gregbugaj/marie-ai/tree/develop/docs/docs/getting-started/configuration copy/config.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Configuration",
+    "permalink": "/docs/category/configuration-1"
+  },
+  "next": {
+    "title": "Tutorial - Basics",
+    "permalink": "/docs/category/tutorial---basics"
+  }
+}

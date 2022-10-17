@@ -1,0 +1,16 @@
+{
+  "title": "Development",
+  "description": "Localhost development environment setup",
+  "slug": "/category/development",
+  "permalink": "/docs/category/development",
+  "navigation": {
+    "previous": {
+      "title": "Docker",
+      "permalink": "/docs/getting-started/deployment/docker"
+    },
+    "next": {
+      "title": "Troubleshooting",
+      "permalink": "/docs/getting-started/develop/troubleshooting"
+    }
+  }
+}

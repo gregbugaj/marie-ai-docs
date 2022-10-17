@@ -1,0 +1,27 @@
+{
+  "unversionedId": "getting-started/configuration/architecture-overview",
+  "id": "getting-started/configuration/architecture-overview",
+  "title": "Basic Concepts",
+  "description": "",
+  "source": "@site/docs/getting-started/configuration/architecture-overview.md",
+  "sourceDirName": "getting-started/configuration",
+  "slug": "/getting-started/configuration/architecture-overview",
+  "permalink": "/docs/getting-started/configuration/architecture-overview",
+  "draft": false,
+  "editUrl": "https://github.com/gregbugaj/marie-ai/tree/develop/docs/docs/getting-started/configuration/architecture-overview.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Configuration",
+    "permalink": "/docs/category/configuration"
+  },
+  "next": {
+    "title": "Tutorial 2",
+    "permalink": "/docs/getting-started/configuration/tutorial-002"
+  }
+}

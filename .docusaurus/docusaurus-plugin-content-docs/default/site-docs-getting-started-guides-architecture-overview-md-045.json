@@ -1,0 +1,27 @@
+{
+  "unversionedId": "getting-started/guides/architecture-overview",
+  "id": "getting-started/guides/architecture-overview",
+  "title": "Basic Concepts",
+  "description": "",
+  "source": "@site/docs/getting-started/guides/architecture-overview.md",
+  "sourceDirName": "getting-started/guides",
+  "slug": "/getting-started/guides/architecture-overview",
+  "permalink": "/docs/getting-started/guides/architecture-overview",
+  "draft": false,
+  "editUrl": "https://github.com/gregbugaj/marie-ai/tree/develop/docs/docs/getting-started/guides/architecture-overview.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Tutorial - Basics",
+    "permalink": "/docs/category/tutorial---basics"
+  },
+  "next": {
+    "title": "Tutorial 2",
+    "permalink": "/docs/getting-started/guides/tutorial-002"
+  }
+}

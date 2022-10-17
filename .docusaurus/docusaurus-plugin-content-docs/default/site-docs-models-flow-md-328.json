@@ -1,0 +1,27 @@
+{
+  "unversionedId": "models/flow",
+  "id": "models/flow",
+  "title": "Flow",
+  "description": "",
+  "source": "@site/docs/models/flow.md",
+  "sourceDirName": "models",
+  "slug": "/models/flow",
+  "permalink": "/docs/models/flow",
+  "draft": false,
+  "editUrl": "https://github.com/gregbugaj/marie-ai/tree/develop/docs/docs/models/flow.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Model Zoo",
+    "permalink": "/docs/category/model-zoo"
+  },
+  "next": {
+    "title": "Release notes",
+    "permalink": "/docs/changelog"
+  }
+}

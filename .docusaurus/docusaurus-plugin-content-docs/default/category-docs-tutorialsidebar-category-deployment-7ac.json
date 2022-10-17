@@ -1,0 +1,16 @@
+{
+  "title": "Deployment",
+  "description": "Deployment workflow.",
+  "slug": "/category/deployment",
+  "permalink": "/docs/category/deployment",
+  "navigation": {
+    "previous": {
+      "title": "Basic Concepts",
+      "permalink": "/docs/getting-started/configuration/config"
+    },
+    "next": {
+      "title": "Docker",
+      "permalink": "/docs/getting-started/deployment/docker"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Development",
+  "description": "Localhost workflow.",
+  "slug": "/category/development-1",
+  "permalink": "/docs/category/development-1",
+  "navigation": {
+    "previous": {
+      "title": "Localhost development environment setup",
+      "permalink": "/docs/getting-started/deployment/localhost"
+    },
+    "next": {
+      "title": "Localhost development environment setup",
+      "permalink": "/docs/getting-started/develop/localhost copy"
+    }
+  }
+}
