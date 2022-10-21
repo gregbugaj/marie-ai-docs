@@ -124,17 +124,19 @@ Install following dependencies to ensure docker is setup for GPU processing.
 
 After the installation we can validate the setup with :
 
-```sh
+[CUDA and cuDNN images from gitlab.com/nvidia/cuda](https://hub.docker.com/r/nvidia/cuda/tags?page=2&ordering=last_updated&name=11.3)
 
-#### Test nvidia-smi with the latest official CUDA image
-docker run --gpus all nvidia/cuda:11.0-base nvidia-smi
-docker run --gpus all --shm-size=1g --ulimit memlock=-1 --ulimit stack=67108864  nvidia/cuda:11.0-base nvidia-smi
+
+```sh
+#### Test nvidia-smi with the official CUDA image
+docker run --gpus all nvidia/cuda:11.3.1-runtime-ubuntu20.04 nvidia-smi
+docker run --gpus all --shm-size=1g --ulimit memlock=-1 --ulimit stack=67108864 nvidia/cuda:11.3.1-runtime-ubuntu20.04 nvidia-smi
 ```
 
 
 ### Building container
 
-If we have properly configured our 
+If we have properly configured our environment you should be able to build the container localy
 
 ```sh
 DOCKER_BUILDKIT=1 docker build . -f Dockerfile -t gregbugaj/marie-icr:2.4-cuda --no-cache 

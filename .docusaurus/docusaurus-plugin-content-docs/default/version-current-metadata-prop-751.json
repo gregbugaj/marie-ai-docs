@@ -143,7 +143,7 @@
     "getting-started/deployment/docker": {
       "id": "getting-started/deployment/docker",
       "title": "Docker",
-      "description": "dfdf",
+      "description": "Deployment via docker container",
       "sidebar": "tutorialSidebar"
     },
     "getting-started/installation": {
